@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22441" started-at="2021-02-24T16:50:49Z" finished-at="2021-02-24T16:51:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22441" started-at="2021-02-24T16:50:49Z" finished-at="2021-02-24T16:51:11Z">
+      <class name="org.springtc.TC001_PrintAllValues">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:org.springtc.TC001_PrintAllValues@17c1bced]" name="setUP" is-config="true" duration-ms="6587" started-at="2021-02-24T22:20:49Z" finished-at="2021-02-24T22:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="loginAndGetAllValues()[pri:0, instance:org.springtc.TC001_PrintAllValues@17c1bced]" name="loginAndGetAllValues" duration-ms="14868" started-at="2021-02-24T22:20:55Z" finished-at="2021-02-24T22:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndGetAllValues -->
+        <test-method status="PASS" signature="EndTest()[pri:0, instance:org.springtc.TC001_PrintAllValues@17c1bced]" name="EndTest" is-config="true" duration-ms="943" started-at="2021-02-24T22:21:10Z" finished-at="2021-02-24T22:21:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- org.springtc.TC001_PrintAllValues -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
