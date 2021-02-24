@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="7" name="Suite" parallel="methods">
+  <test thread-count="7" name="ParallerTest" parallel="methods">
+    <classes>
+      <class name="autocomplete.google.homepage.TestCases"/>
+    </classes>
+  </test> <!-- ParallerTest -->
+</suite> <!-- Suite -->
